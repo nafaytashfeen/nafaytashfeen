@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year student pursuing a Bachelor's degree In<br>Computer Science at the University of Toronto 🎓.<br><br>💼 Completed internships as a Full Stack Developer Intern at JamSocial<br>🌱 Next up: I’ll be working on Skillswap, and diving into AWS to level up my cloud-architecture skills.  <br>👯 I'm open to collaborating on new projects and expanding my skills<br><br>
+I am a third-year student pursuing a Bachelor's degree In<br>Computer Science at the University of Toronto 🎓.<br><br>💼 Completed internships as a Full Stack Developer Intern at JamSocial, Cybersecurity Intern at Polytechnique, and Database Developer at Global Cleantech Directory<br>🌱 Next up: I’ll be working on Skillswap, and diving into AWS to level up my cloud-architecture skills.  <br>👯 I'm open to collaborating on new projects and expanding my skills<br><br>
 
 
 ## 🌐 Socials:
